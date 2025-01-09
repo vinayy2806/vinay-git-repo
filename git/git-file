@@ -1,0 +1,4 @@
+#!/bin/bash
+s="vinay"
+echo "$S is completing the BCA"
+echo "$s is 21 yesrs old"
