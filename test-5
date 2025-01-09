@@ -1,0 +1,5 @@
+#!/bin/bash
+$s="script"
+echo "hello"
+echo "$s in the microdegree"
+echo "my own $s"
